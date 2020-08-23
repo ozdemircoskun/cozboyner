@@ -1,0 +1,8 @@
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Domain.Core\bin\Debug\netcoreapp3.1\Boyner.Domain.Core.deps.json
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Domain.Core\bin\Debug\netcoreapp3.1\Boyner.Domain.Core.dll
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Domain.Core\bin\Debug\netcoreapp3.1\Boyner.Domain.Core.pdb
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Domain.Core\obj\Debug\netcoreapp3.1\Boyner.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Domain.Core\obj\Debug\netcoreapp3.1\Boyner.Domain.Core.AssemblyInfo.cs
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Domain.Core\obj\Debug\netcoreapp3.1\Boyner.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Domain.Core\obj\Debug\netcoreapp3.1\Boyner.Domain.Core.dll
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Domain.Core\obj\Debug\netcoreapp3.1\Boyner.Domain.Core.pdb

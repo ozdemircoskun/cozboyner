@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Boyner.Application\\Boyner.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Boyner.Application\\Boyner.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Boyner.Application\\Boyner.Application.csproj",
+        "projectName": "Boyner.Application",
+        "projectPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Boyner.Application\\Boyner.Application.csproj",
+        "packagesPath": "C:\\Users\\coskun.ozdemir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Boyner.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\coskun.ozdemir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\CozLab.Domain\\CozLab.Domain.csproj": {
+                "projectPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\CozLab.Domain\\CozLab.Domain.csproj"
+              },
+              "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\CozLab.Infra.Data\\CozLab.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\CozLab.Infra.Data\\CozLab.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.ComponentModel.Primitives": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

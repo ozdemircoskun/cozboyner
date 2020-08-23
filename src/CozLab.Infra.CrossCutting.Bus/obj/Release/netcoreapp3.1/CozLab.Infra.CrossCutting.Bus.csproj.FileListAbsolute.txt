@@ -1,0 +1,12 @@
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Infra.CrossCutting.Bus\bin\Release\netcoreapp3.1\CozLab.Infra.CrossCutting.Bus.deps.json
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Infra.CrossCutting.Bus\bin\Release\netcoreapp3.1\CozLab.Infra.CrossCutting.Bus.dll
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Infra.CrossCutting.Bus\bin\Release\netcoreapp3.1\CozLab.Infra.CrossCutting.Bus.pdb
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Infra.CrossCutting.Bus\bin\Release\netcoreapp3.1\CozLab.Domain.Core.dll
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Infra.CrossCutting.Bus\bin\Release\netcoreapp3.1\CozLab.Domain.Core.pdb
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Infra.CrossCutting.Bus\obj\Release\netcoreapp3.1\CozLab.Infra.CrossCutting.Bus.csprojAssemblyReference.cache
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Infra.CrossCutting.Bus\obj\Release\netcoreapp3.1\CozLab.Infra.CrossCutting.Bus.AssemblyInfoInputs.cache
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Infra.CrossCutting.Bus\obj\Release\netcoreapp3.1\CozLab.Infra.CrossCutting.Bus.AssemblyInfo.cs
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Infra.CrossCutting.Bus\obj\Release\netcoreapp3.1\CozLab.Infra.CrossCutting.Bus.csproj.CoreCompileInputs.cache
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Infra.CrossCutting.Bus\obj\Release\netcoreapp3.1\CozLab.Infra.CrossCutting.Bus.csproj.CopyComplete
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Infra.CrossCutting.Bus\obj\Release\netcoreapp3.1\CozLab.Infra.CrossCutting.Bus.dll
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Infra.CrossCutting.Bus\obj\Release\netcoreapp3.1\CozLab.Infra.CrossCutting.Bus.pdb

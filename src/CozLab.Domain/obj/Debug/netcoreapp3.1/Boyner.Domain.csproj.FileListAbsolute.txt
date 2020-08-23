@@ -1,0 +1,14 @@
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Domain\obj\Debug\netcoreapp3.1\Boyner.Domain.csprojAssemblyReference.cache
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Domain\obj\Debug\netcoreapp3.1\Boyner.Domain.AssemblyInfoInputs.cache
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Domain\obj\Debug\netcoreapp3.1\Boyner.Domain.AssemblyInfo.cs
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Domain\obj\Debug\netcoreapp3.1\Boyner.Domain.csproj.CoreCompileInputs.cache
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Domain\bin\Debug\netcoreapp3.1\Boyner.Domain.deps.json
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Domain\bin\Debug\netcoreapp3.1\Boyner.Domain.dll
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Domain\bin\Debug\netcoreapp3.1\Boyner.Domain.Core.dll
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Domain\bin\Debug\netcoreapp3.1\Boyner.Infra.CrossCutting.Bus.dll
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Domain\bin\Debug\netcoreapp3.1\Boyner.Domain.Core.pdb
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Domain\bin\Debug\netcoreapp3.1\Boyner.Infra.CrossCutting.Bus.pdb
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Domain\obj\Debug\netcoreapp3.1\Boyner.Domain.csproj.CopyComplete
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Domain\bin\Debug\netcoreapp3.1\Boyner.Domain.pdb
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Domain\obj\Debug\netcoreapp3.1\Boyner.Domain.dll
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Domain\obj\Debug\netcoreapp3.1\Boyner.Domain.pdb

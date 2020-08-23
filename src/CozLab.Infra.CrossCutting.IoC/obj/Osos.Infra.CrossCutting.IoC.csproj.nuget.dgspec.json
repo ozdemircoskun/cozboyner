@@ -1,0 +1,539 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.CrossCutting.IoC\\Osos.Infra.CrossCutting.IoC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Application\\Boyner.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Application\\Boyner.Application.csproj",
+        "projectName": "Boyner.Application",
+        "projectPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Application\\Boyner.Application.csproj",
+        "packagesPath": "C:\\Users\\coskun.ozdemir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\coskun.ozdemir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Domain\\Boyner.Domain.csproj": {
+                "projectPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Domain\\Boyner.Domain.csproj"
+              },
+              "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.Data\\Osos.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.Data\\Osos.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.ComponentModel.Primitives": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Domain.Core\\Boyner.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Domain.Core\\Boyner.Domain.Core.csproj",
+        "projectName": "Boyner.Domain.Core",
+        "projectPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Domain.Core\\Boyner.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\coskun.ozdemir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\coskun.ozdemir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.1, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.10.4, )"
+            },
+            "System.ComponentModel": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "mediatr": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Domain\\Boyner.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Domain\\Boyner.Domain.csproj",
+        "projectName": "Boyner.Domain",
+        "projectPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Domain\\Boyner.Domain.csproj",
+        "packagesPath": "C:\\Users\\coskun.ozdemir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\coskun.ozdemir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Domain.Core\\Boyner.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Domain.Core\\Boyner.Domain.Core.csproj"
+              },
+              "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.CrossCutting.Bus\\Boyner.Infra.CrossCutting.Bus.csproj": {
+                "projectPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.CrossCutting.Bus\\Boyner.Infra.CrossCutting.Bus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.1, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.10.4, )"
+            },
+            "System.ComponentModel": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Security.Claims": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.CrossCutting.Bus\\Boyner.Infra.CrossCutting.Bus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.CrossCutting.Bus\\Boyner.Infra.CrossCutting.Bus.csproj",
+        "projectName": "Boyner.Infra.CrossCutting.Bus",
+        "projectPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.CrossCutting.Bus\\Boyner.Infra.CrossCutting.Bus.csproj",
+        "packagesPath": "C:\\Users\\coskun.ozdemir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.CrossCutting.Bus\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\coskun.ozdemir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Domain.Core\\Boyner.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Domain.Core\\Boyner.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "mediatr": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.CrossCutting.Identity\\Osos.Infra.CrossCutting.Identity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.CrossCutting.Identity\\Osos.Infra.CrossCutting.Identity.csproj",
+        "projectName": "Osos.Infra.CrossCutting.Identity",
+        "projectPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.CrossCutting.Identity\\Osos.Infra.CrossCutting.Identity.csproj",
+        "packagesPath": "C:\\Users\\coskun.ozdemir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.CrossCutting.Identity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\coskun.ozdemir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Domain\\Boyner.Domain.csproj": {
+                "projectPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Domain\\Boyner.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.CrossCutting.IoC\\Osos.Infra.CrossCutting.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.CrossCutting.IoC\\Osos.Infra.CrossCutting.IoC.csproj",
+        "projectName": "Osos.Infra.CrossCutting.IoC",
+        "projectPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.CrossCutting.IoC\\Osos.Infra.CrossCutting.IoC.csproj",
+        "packagesPath": "C:\\Users\\coskun.ozdemir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.CrossCutting.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\coskun.ozdemir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Application\\Boyner.Application.csproj": {
+                "projectPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Application\\Boyner.Application.csproj"
+              },
+              "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Domain\\Boyner.Domain.csproj": {
+                "projectPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Domain\\Boyner.Domain.csproj"
+              },
+              "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.CrossCutting.Identity\\Osos.Infra.CrossCutting.Identity.csproj": {
+                "projectPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.CrossCutting.Identity\\Osos.Infra.CrossCutting.Identity.csproj"
+              },
+              "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.Data\\Osos.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.Data\\Osos.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.Data\\Osos.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.Data\\Osos.Infra.Data.csproj",
+        "projectName": "Osos.Infra.Data",
+        "projectPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.Data\\Osos.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\coskun.ozdemir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\coskun.ozdemir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Domain\\Boyner.Domain.csproj": {
+                "projectPath": "C:\\Users\\coskun.ozdemir\\source\\repos\\by\\boyner\\src\\Osos.Domain\\Boyner.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.10.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

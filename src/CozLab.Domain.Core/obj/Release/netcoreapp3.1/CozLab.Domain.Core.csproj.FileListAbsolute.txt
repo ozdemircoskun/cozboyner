@@ -1,0 +1,9 @@
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Domain.Core\bin\Release\netcoreapp3.1\CozLab.Domain.Core.deps.json
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Domain.Core\bin\Release\netcoreapp3.1\CozLab.Domain.Core.dll
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Domain.Core\bin\Release\netcoreapp3.1\CozLab.Domain.Core.pdb
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Domain.Core\obj\Release\netcoreapp3.1\CozLab.Domain.Core.csprojAssemblyReference.cache
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Domain.Core\obj\Release\netcoreapp3.1\CozLab.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Domain.Core\obj\Release\netcoreapp3.1\CozLab.Domain.Core.AssemblyInfo.cs
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Domain.Core\obj\Release\netcoreapp3.1\CozLab.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Domain.Core\obj\Release\netcoreapp3.1\CozLab.Domain.Core.dll
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Domain.Core\obj\Release\netcoreapp3.1\CozLab.Domain.Core.pdb

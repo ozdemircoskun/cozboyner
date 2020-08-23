@@ -1,0 +1,14 @@
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Domain\bin\Release\netcoreapp3.1\CozLab.Domain.deps.json
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Domain\bin\Release\netcoreapp3.1\CozLab.Domain.dll
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Domain\bin\Release\netcoreapp3.1\CozLab.Domain.pdb
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Domain\bin\Release\netcoreapp3.1\CozLab.Domain.Core.dll
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Domain\bin\Release\netcoreapp3.1\CozLab.Infra.CrossCutting.Bus.dll
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Domain\bin\Release\netcoreapp3.1\CozLab.Domain.Core.pdb
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Domain\bin\Release\netcoreapp3.1\CozLab.Infra.CrossCutting.Bus.pdb
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Domain\obj\Release\netcoreapp3.1\CozLab.Domain.csprojAssemblyReference.cache
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Domain\obj\Release\netcoreapp3.1\CozLab.Domain.AssemblyInfoInputs.cache
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Domain\obj\Release\netcoreapp3.1\CozLab.Domain.AssemblyInfo.cs
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Domain\obj\Release\netcoreapp3.1\CozLab.Domain.csproj.CoreCompileInputs.cache
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Domain\obj\Release\netcoreapp3.1\CozLab.Domain.csproj.CopyComplete
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Domain\obj\Release\netcoreapp3.1\CozLab.Domain.dll
+C:\Users\coskun.ozdemir\source\repos\by\cozlab\src\CozLab.Domain\obj\Release\netcoreapp3.1\CozLab.Domain.pdb

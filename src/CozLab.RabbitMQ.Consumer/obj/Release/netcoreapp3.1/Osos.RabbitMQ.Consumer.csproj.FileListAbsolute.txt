@@ -1,0 +1,5 @@
+C:\Users\coskun.ozdemir\source\repos\eksimgitlab\Headend\src\Osos.RabbitMQ.Consumer\obj\Release\netcoreapp3.1\Osos.RabbitMQ.Consumer.csprojAssemblyReference.cache
+C:\Users\coskun.ozdemir\source\repos\eksimgitlab\Headend\src\Osos.RabbitMQ.Consumer\obj\Release\netcoreapp3.1\Osos.RabbitMQ.Consumer.AssemblyInfoInputs.cache
+C:\Users\coskun.ozdemir\source\repos\eksimgitlab\Headend\src\Osos.RabbitMQ.Consumer\obj\Release\netcoreapp3.1\Osos.RabbitMQ.Consumer.AssemblyInfo.cs
+C:\Users\coskun.ozdemir\source\repos\eksimgitlab\Headend\src\Osos.RabbitMQ.Consumer\obj\Release\netcoreapp3.1\Osos.RabbitMQ.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\coskun.ozdemir\source\repos\eksimgitlab\Headend\src\Osos.RabbitMQ.Consumer\obj\Release\netcoreapp3.1\Osos.RabbitMQ.Consumer.MvcApplicationPartsAssemblyInfo.cache

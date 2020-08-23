@@ -1,0 +1,12 @@
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\Boyner.Infra.CrossCutting.Bus.deps.json
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\Boyner.Infra.CrossCutting.Bus.dll
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\Boyner.Infra.CrossCutting.Bus.pdb
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\Boyner.Domain.Core.dll
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\Boyner.Domain.Core.pdb
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\Boyner.Infra.CrossCutting.Bus.csprojAssemblyReference.cache
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\Boyner.Infra.CrossCutting.Bus.AssemblyInfoInputs.cache
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\Boyner.Infra.CrossCutting.Bus.AssemblyInfo.cs
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\Boyner.Infra.CrossCutting.Bus.csproj.CoreCompileInputs.cache
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\Boyner.Infra.CrossCutting.Bus.csproj.CopyComplete
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\Boyner.Infra.CrossCutting.Bus.dll
+C:\Users\coskun.ozdemir\source\repos\by\boyner\src\Boyner.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\Boyner.Infra.CrossCutting.Bus.pdb
